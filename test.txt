@@ -1,0 +1,5 @@
+a. Open test.txt
+b. Git init
+c. Git status // checks if files are edited or not
+d. Git add
+e. Git commit - m"....

@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdint>
-
+//git test
 using namespace std;
 
 uint16_t board[9][9];
