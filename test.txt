@@ -1,5 +1,0 @@
-a. Open test.txt
-b. Git init
-c. Git status // checks if files are edited or not
-d. Git add // git add . Adds everything in that file to git, git add *.txt adds everything with txt
-e. Git commit - m"....
